@@ -355,7 +355,7 @@ body {
   background: linear-gradient(220deg, #fffefb, #d4d4d4);
 }
 
-.home #joeljaimon {
+.home #nisyhaaltamil {
   font-family: 'Cairo', sans-serif;
   margin: 0 auto;
   padding: 10px;
@@ -370,7 +370,7 @@ body {
           transform: translate(-50%, -50%);
 }
 
-.home #joeljaimon .Hi {
+.home #nisyhaaltamil .Hi {
   border-bottom: 2px solid var(--color);
   color: var(--color);
   z-index: 1;
@@ -378,18 +378,18 @@ body {
   margin-top: 45vh;
 }
 
-.home #joeljaimon .Hi .name-user {
+.home #nisyhaaltamil .Hi .name-user {
   font-size: 2vw;
   color: white;
 }
 
-.home #joeljaimon .bio {
+.home #nisyhaaltamil .bio {
   font-size: 1.2vw;
   color: grey;
   margin: 15px;
 }
 
-.home #joeljaimon #hello_img {
+.home #nisyhaaltamil #hello_img {
   width: 50%;
   height: auto;
 }
@@ -398,10 +398,10 @@ body {
   .cursor {
     display: contents;
   }
-  .home #joeljaimon {
+  .home #nisyhaaltamil {
     width: 100%;
   }
-  .home #joeljaimon .Hi {
+  .home #nisyhaaltamil .Hi {
     border-bottom: 1px solid;
     color: var(--color);
     z-index: 100;
@@ -410,11 +410,11 @@ body {
     width: 60%;
     margin-top: 42vh;
   }
-  .home #joeljaimon .Hi .name-user {
+  .home #nisyhaaltamil .Hi .name-user {
     font-size: 5.5vw;
     color: white;
   }
-  .home #joeljaimon .bio {
+  .home #nisyhaaltamil .bio {
     font-size: 3.2vw;
     color: grey;
     margin: 15px;
