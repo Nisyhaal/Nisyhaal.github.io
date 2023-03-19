@@ -87,8 +87,8 @@
 .swiper-container .homepage #social-link .icon-home {
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: (1fr)[3];
-      grid-template-columns: repeat(3, 1fr);
+  -ms-grid-columns: (1fr)[2];
+      grid-template-columns: repeat(2, 1fr);
   -ms-grid-rows: 100%;
       grid-template-rows: 100%;
   padding: 20px;
@@ -322,8 +322,8 @@ body {
 #social-link .icon-home {
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: (1fr)[3];
-      grid-template-columns: repeat(3, 1fr);
+  -ms-grid-columns: (1fr)[2];
+      grid-template-columns: repeat(2, 1fr);
   -ms-grid-rows: 100%;
       grid-template-rows: 100%;
   padding: 20px;
@@ -675,10 +675,10 @@ about p {
   background: rgba(27, 27, 27, 0.8);
   margin-top: 0%;
   border-left: 1px solid var(--color);
-  font-size: 1.5vw;
+  font-size: 1.2vw;
   width: 80%;
   color: #e2e2e2;
-  padding: 10%;
+  padding: 8%;
   margin-left: 10%;
   font-family: Nunito;
 }
@@ -700,15 +700,15 @@ about .box-block-1 {
   position: relative;
 }
 
-about .box-block-3 {
-  width: 28%;
-  border: 2px solid grey;
-  padding-top: 26%;
-  z-index: 2;
-  margin-top: -22%;
-  margin-left: 175%;
-  position: relative;
-}
+/*about .box-block-3 {*/
+/*  width: 28%;*/
+/*  border: 2px solid grey;*/
+/*  padding-top: 26%;*/
+/*  z-index: 2;*/
+/*  margin-top: -22%;*/
+/*  margin-left: 175%;*/
+/*  position: relative;*/
+/*}*/
 
 @media screen and (max-width: 520px) {
   about {
@@ -1367,7 +1367,7 @@ achievements .certi-view .certi:not(:nth-child(6)) {
 }
 
 .contact-me .contact-me-content {
-  height: 30vw;
+  height: 40vw;
   width: 100vw;
 }
 
@@ -1394,7 +1394,7 @@ achievements .certi-view .certi:not(:nth-child(6)) {
 .contact-me .contact-me-content .contact-section {
   z-index: 100;
   background: #1b1b1b;
-  height: 17vw;
+  height: 10vw;
   position: relative;
   width: 50vw;
   margin-top: 2%;
@@ -1411,13 +1411,13 @@ achievements .certi-view .certi:not(:nth-child(6)) {
 .contact-me .contact-me-content .contact-section .social {
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: (1fr)[3];
-      grid-template-columns: repeat(3, 1fr);
+  -ms-grid-columns: (1fr)[2];
+      grid-template-columns: repeat(2, 1fr);
   -ms-grid-rows: 1fr;
       grid-template-rows: 1fr;
   width: 50%;
   margin-left: 20%;
-  bottom: 40%;
+  bottom: 75%;
   position: absolute;
 }
 
