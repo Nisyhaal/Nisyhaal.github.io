@@ -128,7 +128,7 @@ $speed: 0.4s;
         width: 100%;
         padding-top: 10vh;
     }
-    .achievements{
+    .projects{
         padding: 10vh;
     }
     .skillswipe{
@@ -1047,7 +1047,7 @@ skill{
             
         }
 }
-achievements{
+projects{
     display: grid;
     grid-template-columns: 100%;
     grid-row: 10% 90%;
@@ -1061,7 +1061,7 @@ achievements{
         font-size: 3.5vw;
     }
 
-.certi-view{
+.indProj-view{
         display: flex;
         justify-content: center;
         overflow: hidden;
@@ -1071,7 +1071,7 @@ achievements{
         padding-bottom: 2vw;
 
       
-        .certi {
+        .indProj {
           flex: 1;
           transition: all 1s ease-in-out;
           height: 55vmin;
@@ -1126,7 +1126,7 @@ achievements{
       
 }
 @media screen and (max-width: 520px){
-    achievements{
+    projects{
         display: grid;
         grid-template-columns: 100%;
         grid-row: 2% 98%;
@@ -1141,7 +1141,7 @@ achievements{
             font-size: 6.5vw;
         }
     
-    .certi-view{
+    .indProj-view{
             display: flex;
             justify-content: center;
             overflow: hidden;
@@ -1151,7 +1151,7 @@ achievements{
             padding-bottom: 2vw;
             
           
-            .certi {
+            .indProj {
               flex: 1;
               transition: all 1s ease-in-out;
               height: 70vmin;
