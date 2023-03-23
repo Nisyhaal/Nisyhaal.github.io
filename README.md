@@ -13,8 +13,8 @@ to reach out!
 
 Thank you for visiting my GitHub page, and I hope you enjoy exploring my work as much as I have enjoyed creating it.
 
-This portfolio web [template](https://github.com/joel-jaimon/Dark_Portfolio_Template) that has been made 
-by [Joel Jamon](https://github.com/joel-jaimon) using HTML-5 , CSS3 (SCSS) and JavaScript. Its responsive and you can 
+This portfolio web [template](https://github.com/joel-jaimon/Dark_Portfolio_Template) is made by 
+[Joel Jamon](https://github.com/joel-jaimon) using HTML-5 , CSS3 (SCSS) and JavaScript. Its responsive and you can 
 toggle between three themes. DOM event handlers are used to capture mouse events and animate cursor interactions 
 with various elements of the page.
 
