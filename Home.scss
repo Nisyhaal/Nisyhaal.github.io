@@ -12,7 +12,7 @@
 $speed: 0.4s;
 
 :root{
-    --color:#c2213b;
+    --color:#007fff;
 }
 
 .theme-but{
@@ -35,26 +35,26 @@ $speed: 0.4s;
     z-index: 2;
 }
 .a-t{
-    background-color: #c2213b;
+    background-color: #007fff;
 
     &:focus{
-        --color: #c2213b;
+        --color: #007fff;
     }
 
 }
 
 .b-t{
-    background-color: #02a8a0;
+    background-color: #5727b0;
     &:focus{
-        --color: #02a8a0;
+        --color: #5727b0;
     }
 
 }
 
 .c-t{
-    background-color: #FB5252;
+    background-color: #ffd700;
     &:focus{
-        --color: #FB5252;
+        --color: #ffd700;
     }
 
 }
